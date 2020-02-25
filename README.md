@@ -42,6 +42,10 @@ output:
     
     % AT: A+T ratio
     
+![Image description](gcat.pdf)
+
+
+
 
     
     
