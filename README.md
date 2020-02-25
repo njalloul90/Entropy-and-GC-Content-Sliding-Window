@@ -42,7 +42,7 @@ output:
     
     % AT: A+T ratio
     
-![Image description](gcat.pdf)
+![GC_and_AT_content_plot](gcat.png)
 
 
 
